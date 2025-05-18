@@ -1,0 +1,40 @@
+:root {
+    --accent: #b183d4;
+    --accent-dark: #9a56b3;
+    --editor-bg: #07070a;
+    --editor-text: #ffffff;
+    --editor-text-bg: #171720;
+    --topbar-nav-bg: #07070a;
+    --topbar-card-bg: #09090f;
+    --title-bg: #09090f;
+    --toolbar-bg: #08080d;
+    --toolbar-btn-bg: #12121d;
+    --toolbar-btn-active: #b183d4;
+    --toolbar-btn-text: #f5f5ff;
+    --container-border: #2d2d46;
+    --divider: #9273aa;
+    --placeholder-color: #b183d4;
+    --button-radius: 8px;
+    --highlight-bg: rgba(177, 131, 212, 0.2);
+    --gradient-bg: linear-gradient(to bottom right, #07070a, #07070a 60%, #4d2c61 100%);
+}
+
+[data-theme="light"] {
+    --accent: #937ccf;
+    --accent-dark: #6955a1;
+    --editor-bg: #f5f0ff;
+    --editor-text: #23233a;
+    --editor-text-bg: #ffffff;
+    --topbar-nav-bg: #f5f0ff;
+    --topbar-card-bg: #e8e0fa;
+    --title-bg: #ffffff;
+    --toolbar-bg: #e8e0fa;
+    --toolbar-btn-bg: #d8d0f2;
+    --toolbar-btn-active: #c8c0ea;
+    --toolbar-btn-text: #23233a;
+    --container-border: #d0d0e0;
+    --divider: #d0d0e0;
+    --placeholder-color: #6c6c8a;
+    --highlight-bg: rgba(138, 99, 242, 0.1);
+    --gradient-bg: linear-gradient(to bottom right, #f5f0ff, #f5f0ff 70%, #a283eb 100%);
+}

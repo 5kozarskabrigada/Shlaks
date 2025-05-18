@@ -1,0 +1,114 @@
+@import url('./variables.css');
+
+.home-container {
+    min-height: 100vh;
+    width: 100vw;
+    box-sizing: border-box;
+    padding: 40px;
+    background: var(--gradient-bg);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.home-container h1 {
+    color: var(--editor-text);
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+}
+
+.home-container p {
+    color: var(--placeholder-color);
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+}
+
+.recent-note-section {
+    width: 100%;
+    max-width: 800px;
+    margin-top: 20px;
+}
+
+.recent-note-section h2 {
+    color: var(--editor-text);
+    margin-bottom: 1.5rem;
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+
+.recent-note-card {
+    background: var(--editor-text-bg);
+    border-radius: 12px;
+    padding: 1.8rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: 1px solid var(--container-border);
+    width: 100%;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.recent-note-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+    border-color: var(--accent);
+}
+
+.recent-note-card h3 {
+    margin: 0 0 1.2rem 0;
+    color: var(--editor-text);
+    font-size: 1.4rem;
+    font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.note-preview {
+    color: var(--placeholder-color);
+    font-size: 1rem;
+    margin-bottom: 1.8rem;
+    height: 80px;
+    overflow: hidden;
+    line-height: 1.6;
+}
+
+.note-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--placeholder-color);
+    font-size: 0.95rem;
+}
+
+.view-link {
+    color: var(--accent);
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.view-link:hover {
+    color: var(--accent-dark);
+    text-decoration: underline;
+}
+
+.loading {
+    color: var(--editor-text);
+    margin-top: 2rem;
+    font-size: 1.1rem;
+}
+
+.empty-message {
+    color: var(--placeholder-color);
+    margin-top: 2rem;
+    font-size: 1.1rem;
+    font-style: italic;
+}
+
+@media (max-width: 768px) {
+    .home-container {
+        padding: 20px;
+    }
+}

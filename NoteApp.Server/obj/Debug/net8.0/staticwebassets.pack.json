@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mamma\\Desktop\\Shlaks\\NoteApp.Server\\wwwroot\\uploads\\img-0303aa6a-3954-491c-893c-50de778bb53f.png",
+      "PackagePath": "staticwebassets\\uploads\\img-0303aa6a-3954-491c-893c-50de778bb53f.png"
+    },
+    {
+      "Id": "C:\\Users\\mamma\\Desktop\\Shlaks\\NoteApp.Server\\wwwroot\\uploads\\img-10812bda-f066-478e-97b5-31388930a812.png",
+      "PackagePath": "staticwebassets\\uploads\\img-10812bda-f066-478e-97b5-31388930a812.png"
+    },
+    {
+      "Id": "C:\\Users\\mamma\\Desktop\\Shlaks\\NoteApp.Server\\wwwroot\\uploads\\img-1a31383f-ca52-42ae-b094-2c2ea392aec2.png",
+      "PackagePath": "staticwebassets\\uploads\\img-1a31383f-ca52-42ae-b094-2c2ea392aec2.png"
+    },
+    {
+      "Id": "C:\\Users\\mamma\\Desktop\\Shlaks\\NoteApp.Server\\wwwroot\\uploads\\img-1a64955d-97b2-4159-bc87-c8e8a281f2d8.png",
+      "PackagePath": "staticwebassets\\uploads\\img-1a64955d-97b2-4159-bc87-c8e8a281f2d8.png"
+    },
+    {
+      "Id": "C:\\Users\\mamma\\Desktop\\Shlaks\\NoteApp.Server\\wwwroot\\uploads\\img-3126e1a3-ad2b-4463-bd9e-a324e4d9488f.png",
+      "PackagePath": "staticwebassets\\uploads\\img-3126e1a3-ad2b-4463-bd9e-a324e4d9488f.png"
+    },
+    {
+      "Id": "C:\\Users\\mamma\\Desktop\\Shlaks\\NoteApp.Server\\wwwroot\\uploads\\img-31efc1d7-610d-447d-89eb-ca0953a02af3.png",
+      "PackagePath": "staticwebassets\\uploads\\img-31efc1d7-610d-447d-89eb-ca0953a02af3.png"
+    },
+    {
+      "Id": "C:\\Users\\mamma\\Desktop\\Shlaks\\NoteApp.Server\\wwwroot\\uploads\\img-3bb53662-f5da-4a68-90c5-109067285014.png",
+      "PackagePath": "staticwebassets\\uploads\\img-3bb53662-f5da-4a68-90c5-109067285014.png"
+    },
+    {
+      "Id": "C:\\Users\\mamma\\Desktop\\Shlaks\\NoteApp.Server\\wwwroot\\uploads\\img-4a286e75-6f7b-4d64-8b5d-76ca355af324.png",
+      "PackagePath": "staticwebassets\\uploads\\img-4a286e75-6f7b-4d64-8b5d-76ca355af324.png"
+    },
+    {
+      "Id": "C:\\Users\\mamma\\Desktop\\Shlaks\\NoteApp.Server\\wwwroot\\uploads\\img-6c93a7c5-69f9-4eb6-87bf-eb6a4526454e.png",
+      "PackagePath": "staticwebassets\\uploads\\img-6c93a7c5-69f9-4eb6-87bf-eb6a4526454e.png"
+    },
+    {
+      "Id": "C:\\Users\\mamma\\Desktop\\Shlaks\\NoteApp.Server\\wwwroot\\uploads\\img-8fc5f555-00d1-46d2-b983-aad393dbff8e.png",
+      "PackagePath": "staticwebassets\\uploads\\img-8fc5f555-00d1-46d2-b983-aad393dbff8e.png"
+    },
+    {
+      "Id": "C:\\Users\\mamma\\Desktop\\Shlaks\\NoteApp.Server\\wwwroot\\uploads\\img-99cd4122-12e9-4ba8-8511-71d909074f87.png",
+      "PackagePath": "staticwebassets\\uploads\\img-99cd4122-12e9-4ba8-8511-71d909074f87.png"
+    },
+    {
+      "Id": "C:\\Users\\mamma\\Desktop\\Shlaks\\NoteApp.Server\\wwwroot\\uploads\\img-9f6b94f5-129b-41db-9c69-bd4df79ba815.png",
+      "PackagePath": "staticwebassets\\uploads\\img-9f6b94f5-129b-41db-9c69-bd4df79ba815.png"
+    },
+    {
+      "Id": "C:\\Users\\mamma\\Desktop\\Shlaks\\NoteApp.Server\\wwwroot\\uploads\\img-a59f515c-db7e-4859-892e-49d67885d1bd.png",
+      "PackagePath": "staticwebassets\\uploads\\img-a59f515c-db7e-4859-892e-49d67885d1bd.png"
+    },
+    {
+      "Id": "C:\\Users\\mamma\\Desktop\\Shlaks\\NoteApp.Server\\wwwroot\\uploads\\img-a775f624-45b7-4327-b213-cb2b5a9dae9c.png",
+      "PackagePath": "staticwebassets\\uploads\\img-a775f624-45b7-4327-b213-cb2b5a9dae9c.png"
+    },
+    {
+      "Id": "C:\\Users\\mamma\\Desktop\\Shlaks\\NoteApp.Server\\wwwroot\\uploads\\img-ad9168a9-aa13-4134-8c4b-4ce436ce639f.png",
+      "PackagePath": "staticwebassets\\uploads\\img-ad9168a9-aa13-4134-8c4b-4ce436ce639f.png"
+    },
+    {
+      "Id": "C:\\Users\\mamma\\Desktop\\Shlaks\\NoteApp.Server\\wwwroot\\uploads\\img-bf7fa420-f0ea-46cf-83c6-ca90d39aa28e.png",
+      "PackagePath": "staticwebassets\\uploads\\img-bf7fa420-f0ea-46cf-83c6-ca90d39aa28e.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NoteApp.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NoteApp.Server.props",
+      "PackagePath": "build\\NoteApp.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NoteApp.Server.props",
+      "PackagePath": "buildMultiTargeting\\NoteApp.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NoteApp.Server.props",
+      "PackagePath": "buildTransitive\\NoteApp.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
